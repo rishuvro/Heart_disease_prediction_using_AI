@@ -13,7 +13,7 @@ To run the notebook locally, please follow the instructions below:
 
 1. Clone the repository: `git clone https://github.com/rishuvro/Heart_disease_prediction_using_AI.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Open the notebook in Jupyter or a compatible environment.
+3. Open the notebook in Jupyter or a compatible environment.(Google Colab)
 
 ## Dataset
 
